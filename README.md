@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicholasprimero
-- 👀 I’m interested in ...
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning computer science at the University Of California San Diego
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
